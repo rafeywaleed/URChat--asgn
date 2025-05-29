@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832544792214",
+    "project_id": "urchat-d4aa3",
+    "storage_bucket": "urchat-d4aa3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832544792214:android:f8e9a3681814d1753c2cb7",
+        "android_client_info": {
+          "package_name": "com.example.urchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEKKBwPEcTtPEVuyDBbFBn1X1CmuMxaOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
