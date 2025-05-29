@@ -11,6 +11,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:iconsax/iconsax.dart';
+import 'package:urchat/auth.dart';
 import 'package:urchat/butter/bfdemo.dart';
 import 'package:urchat/grid.dart';
 import 'package:urchat/meteor.dart';
@@ -366,7 +367,7 @@ class AuthWrapper extends StatelessWidget {
         if (snapshot.hasData) {
           return const ChatScreen();
         }
-        return const LoginScreen();
+        return const LoginSreen();
       },
     );
   }
